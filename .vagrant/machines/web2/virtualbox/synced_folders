@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/Juan Jose/segundo-parcial_electiva2/src/web2","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Juan Jose/segundo-parcial_electiva2","disabled":false,"__vagrantfile":true}}}
